@@ -12,7 +12,7 @@ This implementation is **inspired by an existing project**, but significantly en
 ## 🎯 Key Features & Improvements
 
 * ✅ Rebuilt and improved core ML models from scratch
-* ✅ Enhanced **UI/UX** for better usability and readability
+* ✅ Enhanced for better usability and readability
 * ✅ Added new features for deeper analysis and model comparison
 * ✅ Optimized performance for faster training and evaluation
 * ✅ Fixed bugs and improved overall code stability
@@ -23,6 +23,7 @@ This implementation is **inspired by an existing project**, but significantly en
 ## 📊 Dataset
 
 The dataset contains anonymized credit card transactions made over two days in 2013 by European cardholders, including both normal and fraudulent transactions.
+ dataset url = https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?resource=download
 
 * Highly imbalanced dataset
 * Fraud detection treated as an **anomaly detection problem**
